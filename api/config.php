@@ -13,5 +13,5 @@
 	
 	// Cache Settings
 	define('CACHE_ENABLED', false);
-	define('CACHE_LIFETIME', 3600); // in seconds
+	define('CACHE_LIFETIME', 3600); // in seconds testing change
 	define('HASH_SALT', md5(dirname(__FILE__)));
